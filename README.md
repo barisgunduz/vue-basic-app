@@ -1,6 +1,9 @@
 # vue-basic-app
 
+Install
 > npm i
+
+Start
 > npm start
 
 ## Credentials
