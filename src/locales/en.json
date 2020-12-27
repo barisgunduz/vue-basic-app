@@ -35,6 +35,22 @@
     "loading": "Loading...",
     "delete": "Delete",
     "deleting": "Deleting...",
-    "notLoggedIn":"Hi user! You are not logged in!"
+    "notLoggedIn":"Hi user! You are not logged in!",
+    "cancel": "Cancel"
+  },
+  "login": {
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "usernameRequired":"Username is required",
+    "passwordRequired":"Password is required"
+  },
+  "register": {
+    "register": "Register",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password"
   }
 }

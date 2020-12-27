@@ -56,33 +56,16 @@
           {{ errors.first("phoneNumber") }}
         </div>
       </div>
-      <!-- <div class="form-group">
-        <autocomplete
-    :search="search"
-    placeholder="Search for a country"
-    aria-label="Search for a country"
-    auto-select
-  ></autocomplete>
-      </div> -->
       <div class="form-group">
         <label for="searchCountry">{{
           $t("body.contactPage.form.searchForCountry")
         }}</label>
-        <!-- <autocomplete :suggestions="countries" :selection.sync="value"></autocomplete> -->
         <autocomplete
           :search="search"
           auto-select
           name="searchCountry"
           :class="{ 'is-invalid': submitted && errors.has('searchCountry') }"
         ></autocomplete>
-        <!-- <input
-          :search="search"
-          auto-select
-          name="searchCountry"
-          class="form-control"
-          v-model="userForm.searchCountry"
-          :class="{ 'is-invalid': submitted && errors.has('searchCountry') }"
-        /> -->
       </div>
       <div class="form-group">
         <label for="comment">{{ $t("body.contactPage.form.comment") }}</label>
@@ -122,14 +105,6 @@ const countryList = [
   "Kenya",
   "Brazil",
   "Zimbabwe",
-  // { id: "TR", name: "Turkey" },
-  // { id: "US", name: "United States of America" },
-  // { id: "GB", name: "United Kingdom" },
-  // { id: "DE", name: "Germany" },
-  // { id: "SE", name: "Sweden" },
-  // { id: "KE", name: "Kenya" },
-  // { id: "BR", name: "Brazil" },
-  // { id: "ZW", name: "Zimbabwe" },
 ];
 
 export default {
@@ -165,19 +140,6 @@ export default {
       });
     },
     search(input) {
-      // const countryListUrl = `https://raw.githubusercontent.com/samayo/country-json/master/src/country-by-name.json`;
-      // return new Promise((resolve) => {
-      //   if (input.length < 2) {
-      //     return resolve([]);
-      //   }
-
-      //   fetch(countryListUrl)
-      //     .then((response) => response.json())
-      //     .then((data) => {
-      //       console.log(data)
-      //       resolve(data);
-      //     });
-      // });
       if (input.length < 1) {
         return [];
       }

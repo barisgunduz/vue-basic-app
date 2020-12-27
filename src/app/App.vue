@@ -28,8 +28,7 @@ export default {
   },
   methods: {
     ...mapActions({
-      clearAlert: "alert/clear",
-      deleteUser: "delete",
+      clearAlert: "alert/clear"
     }),
   },
   watch: {

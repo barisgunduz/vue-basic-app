@@ -26,15 +26,31 @@
                 "phoneNumber": "Telefon Numarası",
                 "searchForCountry": "Ülke",
                 "comment": "Mesaj",
-                "sendButton":"Gönder"
+                "sendButton": "Gönder"
             }
         }
     },
     "info": {
-      "error": "HATA",
-      "loading": "Yükleniyor...",
-      "delete": "Sil",
-      "deleting": "Siliniyor...",
-      "notLoggedIn":"Merhaba! Giriş yapmadınız!"
+        "error": "HATA",
+        "loading": "Yükleniyor...",
+        "delete": "Sil",
+        "deleting": "Siliniyor...",
+        "notLoggedIn": "Merhaba! Giriş yapmadınız!",
+        "cancel": "İptal"
+    },
+    "login": {
+        "login": "Giriş",
+        "username": "Kullanıcı Adı",
+        "password": "Şifre",
+        "usernameRequired": "Kullanıcı adı girilmelidir",
+        "passwordRequired": "Şifre girilmelidir"
+    },
+    "register": {
+        "register": "Kayıt Ol",
+        "firstName": "İsim",
+        "lastName": "Soyisim",
+        "username": "Kullanıcı Adı",
+        "email": "Email",
+        "password": "Şifre"
     }
 }
