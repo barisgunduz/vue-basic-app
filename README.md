@@ -1,13 +1,13 @@
 # vue-basic-app
 
 ## Credentials
-App: https://vuejs.org/
+- App: https://vuejs.org/
 
-Registiration and login example: https://jasonwatmore.com/post/2018/07/14/vue-vuex-user-registration-and-login-tutorial-example
-Localization: https://phrase.com/blog/posts/ultimate-guide-to-vue-localization-with-vue-i18n/
-Autocomplete: https://autocomplete.trevoreyre.com/#/vue-component?id=installation
+- Registiration and login example: https://jasonwatmore.com/post/2018/07/14/vue-vuex-user-registration-and-login-tutorial-example
+- Localization: https://phrase.com/blog/posts/ultimate-guide-to-vue-localization-with-vue-i18n/
+- Autocomplete: https://autocomplete.trevoreyre.com/#/vue-component?id=installation
 
-And some Google Search <3
+- And some Google Search <3
 
 ## What i learned
 Some Vue basics.
