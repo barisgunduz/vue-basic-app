@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "home": "Homepage",
+    "contact": "Contact Page",
+    "logout": "Logout",
+    "register": "Register",
+    "login": "Login",
+    "localeSwitcher": {
+      "tr": "Turkish",
+      "en": "English"
+    }
+  },
+  "body": {
+    "homepage": {
+      "hi": "Hi",
+      "dummyMessage": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    "contactPage": {
+      "header": {
+        "hi": "Hi",
+        "formText": "Break us a line"
+      },
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "phoneNumber": "Phone Number",
+        "searchForCountry": "Search for Country",
+        "comment": "Comment",
+        "sendButton": "Send"
+      }
+    }
+  },
+  "info": {
+    "error": "ERROR",
+    "loading": "Loading...",
+    "delete": "Delete",
+    "deleting": "Deleting...",
+    "notLoggedIn":"Hi user! You are not logged in!"
+  }
+}

@@ -1,0 +1,40 @@
+{
+    "nav": {
+        "home": "Anasayfa",
+        "contact": "İletişim",
+        "logout": "Çıkış",
+        "register": "Kayıt Ol",
+        "login": "Oturum Aç",
+        "localeSwitcher": {
+            "tr": "Türkçe",
+            "en": "İngilizce"
+        }
+    },
+    "body": {
+        "homepage": {
+            "hi": "Merhaba",
+            "dummyMessage": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir."
+        },
+        "contactPage": {
+            "header": {
+                "hi": "Merhaba",
+                "formText": "Bize yazın"
+            },
+            "form": {
+                "name": "İsim",
+                "email": "Email",
+                "phoneNumber": "Telefon Numarası",
+                "searchForCountry": "Ülke",
+                "comment": "Mesaj",
+                "sendButton":"Gönder"
+            }
+        }
+    },
+    "info": {
+      "error": "HATA",
+      "loading": "Yükleniyor...",
+      "delete": "Sil",
+      "deleting": "Siliniyor...",
+      "notLoggedIn":"Merhaba! Giriş yapmadınız!"
+    }
+}
