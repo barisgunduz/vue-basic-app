@@ -1,5 +1,8 @@
 # vue-basic-app
 
+> npm i
+> npm start
+
 ## Credentials
 - App: https://vuejs.org/
 - Registiration and login example: https://jasonwatmore.com/post/2018/07/14/vue-vuex-user-registration-and-login-tutorial-example
