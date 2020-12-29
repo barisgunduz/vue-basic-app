@@ -21,7 +21,7 @@ Some Vue basics.
 - Autocomplete (I've done similar projects but not in Vue.)
 
 ## TO-DO
-- Fake-backend to a real api. (Self improvement)
+- Fake-backend to a real api. (Self improvement. RapidAPI search) + Some CRUD
 - Refactoring. (Need to refactor components. Can be a little more clean)
 - Contact Page -> Search for country -> Send -> console.log() not sending. Some error occuring when "v-model" added.
 - More practise.
