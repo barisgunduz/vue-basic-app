@@ -1,5 +1,5 @@
 # vue-basic-app
-Online Address : https://scorppage.netlify.app/
+Online Address : https://basic-vue-page.netlify.app/
 
 Install
 > npm i
